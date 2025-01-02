@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.widget-wrapper {
+  padding: 20px;
+  width: 1200px;
+  max-width: 100%;
+  border-radius: 24px;
+  background: #121316;
+  border: 1px solid #191a1d;
+}
